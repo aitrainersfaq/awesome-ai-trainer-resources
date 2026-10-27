@@ -36,7 +36,7 @@ General and expert AI training work:
 - [DataAnnotation](https://www.dataannotation.tech/) - Chatbot evaluation and writing tasks after a starter assessment.
 - [Alignerr](https://www.alignerr.com/) - Expert AI training work across many subject areas.
 - [Mercor](https://t.mercor.com/rvjeX) - Contract roles for domain experts, with an AI-led interview.
-- [micro1](https://www.micro1.ai/) - Expert contracts matched through an AI interview.
+- [micro1](https://refer.micro1.ai/referral/jobs?referralCode=51373696-0350-4fad-8206-533f4a107e3d&utm_source=referral&utm_medium=share&utm_campaign=job_referral) - Expert contracts matched through an AI interview.
 - [Scale AI](https://scale.com/) - Data and evaluation company behind several contributor programs.
 - [Remotasks](https://www.remotasks.com/) - Scale's task platform for annotation work.
 - [Turing](https://www.turing.com/) - Coding and reasoning work for model training.
