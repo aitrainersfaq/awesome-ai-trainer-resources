@@ -5,7 +5,8 @@ Thanks for helping improve this list.
 ## Guidelines
 
 - Add only free, public resources that help people doing or starting AI training and data annotation work.
-- Link to the official page. No affiliate, referral or tracking links.
+- Link to the official page. No tracking links.
+- Contributors may not add referral or affiliate links. Pull requests that add them will be closed. Any referral links in this list are added by the maintainer only.
 - Check the link works before you submit.
 - Use this format: `[Name](https://link) - Short description.`
 - Keep descriptions short and factual. No hype.
