@@ -2,7 +2,7 @@
 
 A curated list of free, public resources for people who do or want to start remote AI training and data annotation work. It covers where to apply, how the work is done, how to build useful skills, where to find other contributors, and how to avoid scams.
 
-**Disclosure:** if you sign up through links marked (Ad) and get paid work, Mercor or micro1 pays us a referral reward. It costs you nothing and does not affect whether you are accepted. AI Trainers FAQ is not a recruiter, agent or partner of Mercor or micro1. Platforms vet applicants, many are not accepted, and work is not guaranteed. All other links go to official sites.
+**Disclosure:** if you sign up through links marked "Referral link" and get paid work, Mercor or micro1 pays us a referral reward. It costs you nothing and does not affect whether you are accepted. AI Trainers FAQ is not a recruiter, agent or partner of Mercor or micro1. Platforms vet applicants, many are not accepted, and work is not guaranteed. All other links go to official sites.
 
 ## Contents
 
@@ -28,7 +28,7 @@ A curated list of free, public resources for people who do or want to start remo
 
 ## Platforms
 
-**Disclosure:** if you sign up through links marked (Ad) and get paid work, Mercor or micro1 pays us a referral reward. It costs you nothing and does not affect whether you are accepted. AI Trainers FAQ is not a recruiter, agent or partner of Mercor or micro1. Platforms vet applicants, many are not accepted, and work is not guaranteed.
+**Disclosure:** if you sign up through links marked "Referral link" and get paid work, Mercor or micro1 pays us a referral reward. It costs you nothing and does not affect whether you are accepted. AI Trainers FAQ is not a recruiter, agent or partner of Mercor or micro1. Platforms vet applicants, many are not accepted, and work is not guaranteed.
 
 GitHub markdown cannot set `rel` attributes on links. GitHub adds `nofollow` to links in READMEs on its own.
 
@@ -37,8 +37,8 @@ General and expert AI training work:
 - [Outlier](https://outlier.ai/) - Writing, reasoning and domain expert tasks for model training.
 - [DataAnnotation](https://www.dataannotation.tech/) - Chatbot evaluation and writing tasks after a starter assessment.
 - [Alignerr](https://www.alignerr.com/) - Expert AI training work across many subject areas.
-- [Mercor](https://t.mercor.com/rvjeX) (Ad) - Contract roles for domain experts, with an AI-led interview.
-- [micro1](https://refer.micro1.ai/referral/jobs?referralCode=51373696-0350-4fad-8206-533f4a107e3d&utm_source=referral&utm_medium=share&utm_campaign=job_referral) (Ad) - Expert contracts matched through an AI interview.
+- [Mercor](https://t.mercor.com/rvjeX) <sub>Referral link</sub> - Contract roles for domain experts, with an AI-led interview.
+- [micro1](https://refer.micro1.ai/referral/jobs?referralCode=51373696-0350-4fad-8206-533f4a107e3d&utm_source=referral&utm_medium=share&utm_campaign=job_referral) <sub>Referral link</sub> - Expert contracts matched through an AI interview.
 - [Scale AI](https://scale.com/) - Data and evaluation company behind several contributor programs.
 - [Remotasks](https://www.remotasks.com/) - Scale's task platform for annotation work.
 - [Turing](https://www.turing.com/) - Coding and reasoning work for model training.
