@@ -2,7 +2,7 @@
 
 A curated list of free, public resources for people who do or want to start remote AI training and data annotation work. It covers where to apply, how the work is done, how to build useful skills, where to find other contributors, and how to avoid scams.
 
-**Disclosure:** if you sign up through links marked "Referral link" and get paid work, Mercor or micro1 pays us a referral reward. It costs you nothing and does not affect whether you are accepted. AI Trainers FAQ is not a recruiter, agent or partner of Mercor or micro1. Platforms vet applicants, many are not accepted, and work is not guaranteed. All other links go to official sites.
+This list contains affiliate links. All other links go to official sites.
 
 ## Contents
 
@@ -28,7 +28,7 @@ A curated list of free, public resources for people who do or want to start remo
 
 ## Platforms
 
-**Disclosure:** if you sign up through links marked "Referral link" and get paid work, Mercor or micro1 pays us a referral reward. It costs you nothing and does not affect whether you are accepted. AI Trainers FAQ is not a recruiter, agent or partner of Mercor or micro1. Platforms vet applicants, many are not accepted, and work is not guaranteed.
+This list contains affiliate links.
 
 GitHub markdown cannot set `rel` attributes on links. GitHub adds `nofollow` to links in READMEs on its own.
 
