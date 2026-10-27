@@ -1,8 +1,8 @@
-# Awesome AI Trainer Resources [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome AI Trainer Resources
 
 A curated list of free, public resources for people who do or want to start remote AI training and data annotation work. It covers where to apply, how the work is done, how to build useful skills, where to find other contributors, and how to avoid scams.
 
-No affiliate or referral links. Platform links go to official sites only.
+Some platform links are referral links. Signing up through them may earn AI Trainers FAQ a bonus at no cost to you. All other links go to official sites.
 
 ## Contents
 
@@ -28,12 +28,14 @@ No affiliate or referral links. Platform links go to official sites only.
 
 ## Platforms
 
+Some platform links are referral links. Signing up through them may earn AI Trainers FAQ a bonus at no cost to you.
+
 General and expert AI training work:
 
 - [Outlier](https://outlier.ai/) - Writing, reasoning and domain expert tasks for model training.
 - [DataAnnotation](https://www.dataannotation.tech/) - Chatbot evaluation and writing tasks after a starter assessment.
 - [Alignerr](https://www.alignerr.com/) - Expert AI training work across many subject areas.
-- [Mercor](https://www.mercor.com/) - Contract roles for domain experts, with an AI-led interview.
+- [Mercor](https://t.mercor.com/rvjeX) - Contract roles for domain experts, with an AI-led interview.
 - [micro1](https://www.micro1.ai/) - Expert contracts matched through an AI interview.
 - [Scale AI](https://scale.com/) - Data and evaluation company behind several contributor programs.
 - [Remotasks](https://www.remotasks.com/) - Scale's task platform for annotation work.
