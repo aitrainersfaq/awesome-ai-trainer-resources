@@ -2,7 +2,7 @@
 
 A curated list of free, public resources for people who do or want to start remote AI training and data annotation work. It covers where to apply, how the work is done, how to build useful skills, where to find other contributors, and how to avoid scams.
 
-This list contains affiliate links. All other links go to official sites.
+This list contains affiliate links. We may receive compensation if you join through this link. All other links go to official sites.
 
 ## Contents
 
@@ -28,7 +28,7 @@ This list contains affiliate links. All other links go to official sites.
 
 ## Platforms
 
-This list contains affiliate links.
+This list contains affiliate links. We may receive compensation if you join through this link.
 
 GitHub markdown cannot set `rel` attributes on links. GitHub adds `nofollow` to links in READMEs on its own.
 
